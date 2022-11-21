@@ -1,3 +1,7 @@
+package OneToOne;
+
+import OneToOne.Timer;
+
 import java.util.Observer;
 
 public class Toto implements Observer{
